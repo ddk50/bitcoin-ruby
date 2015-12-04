@@ -6,4 +6,7 @@ rvm:
   - 2.2.3
 
 notifications:
-  slack: upfg:3tLUAT4Tibz60iymYmHTfNDa
+  slack: 
+     rooms:
+       - upfg:3tLUAT4Tibz60iymYmHTfNDa
+       - 13fdev:VC9eOevq088EjpZPvpXcF3OD
